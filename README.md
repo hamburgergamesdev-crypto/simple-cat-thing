@@ -1,2 +1,2 @@
 # simple-cat-thing
-testing a new system
+Making a little side thing for a game
